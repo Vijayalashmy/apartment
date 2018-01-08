@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Rentapp Example</name>
+  <name>PhoneGap Example</name>
 
   <description>
-      A simple rent app
+      An example for phonegap build docs.
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
-      Viji
+      Hardeep Shoker
   </author>
 
 </widget>
